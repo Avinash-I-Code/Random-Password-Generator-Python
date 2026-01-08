@@ -3,11 +3,11 @@
 
 A simple GUI-based Random Password Generator built using Python and Tkinter. This application allows users to generate secure passwords of a specified length and copy them directly to the clipboard.
 
-📌 Features
+**📌 Features**
 
 User-friendly Graphical User Interface (GUI)
 
-Generate random passwords with:
+**Generate random passwords with:**
 
 Uppercase letters
 
@@ -23,7 +23,10 @@ One-click copy to clipboard functionality
 
 Lightweight and easy to use
 
-🛠️ Technologies Used
+
+
+
+**🛠️ Technologies Used**
 
 Python
 
@@ -33,11 +36,11 @@ Random module (for password generation)
 
 Pyperclip (for clipboard operations)
 
-🚀 How to Run the Project
 
-Clone the repository:
 
-git clone https://github.com/your-username/password-generator.git
+
+
+**🚀 How to Run the Project**
 
 
 Navigate to the project directory:
@@ -45,16 +48,24 @@ Navigate to the project directory:
 cd password-generator
 
 
-Install required dependency:
+
+
+**Install required dependency:**
 
 pip install pyperclip
 
 
-Run the application:
+
+
+**Run the application:**
 
 python password_generator.py
 
-🖥️ Application Usage
+
+
+
+
+**🖥️ Application Usage**
 
 Enter the desired password length (minimum 8).
 
@@ -64,13 +75,19 @@ The generated password will appear in the text box.
 
 Click Copy to Clipboard to copy the password.
 
-📂 Project Structure
+
+
+
+**📂 Project Structure**
 password-generator/
 │
 ├── password_generator.py
 ├── README.md
 
-🎯 Future Enhancements
+
+
+
+**🎯 Future Enhancements**
 
 Option to choose character types
 
@@ -80,10 +97,8 @@ Save passwords to file
 
 Dark mode UI
 
-📜 License
 
-This project is open-source and available under the MIT License.
-
-👨‍💻 Author
+**
+👨‍💻 Author**
 
 Avinash Rathod
